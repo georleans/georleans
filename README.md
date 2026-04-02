@@ -119,8 +119,8 @@ Hands-on support for students in analog/digital electronics and instrumentation.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=georleans&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georleans&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </div>
 
 <div align="center">
@@ -133,7 +133,7 @@ Hands-on support for students in analog/digital electronics and instrumentation.
 
 **⚡ "Building the future, one circuit at a time."**
 
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=TU_USERNAME.TU_USERNAME)
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=georleans.georleans)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:023e8a,100:00b4d8&height=100&section=footer" />
 

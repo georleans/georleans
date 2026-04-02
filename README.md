@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:023e8a&height=200&section=header&text=Georleans%20González&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Electronic%20Engineering%20Student%20%7C%20IoT%20·%20Embedded%20Systems%20·%20PCB%20Design&descAlignY=56&descColor=90e0ef" />
 
 [![Gmail](https://img.shields.io/badge/Gmail-georleansgonzalez0725%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:georleansgonzalez0725@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Georleans%20González-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/georleans-gonzalez)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Georleans%20González-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/georleans-gonzalez](https://www.linkedin.com/in/georleans-gonzalez-marmolejo-454b0b344/))
 [![Location](https://img.shields.io/badge/📍_Tuluá-Valle%20del%20Cauca,%20Colombia-2ecc71?style=for-the-badge)](https://maps.google.com/?q=Tuluá,Colombia)
 
 </div>

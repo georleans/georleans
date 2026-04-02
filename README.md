@@ -124,7 +124,7 @@ Hands-on support for students in analog/digital electronics and instrumentation.
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=georleans&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
